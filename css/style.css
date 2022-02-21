@@ -8,6 +8,10 @@ body{
     color: azure;
 }
 
+#nav-link{
+    color: white
+}
+
 .nav-item  {
     color: white;
     background-color: #006494;
